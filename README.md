@@ -1,4 +1,4 @@
-#Model Binding & Input Validations
+# Model Binding & Input Validations
 
 This project is used to demonstrate my proficiency with model binding and input validations in Asp.Net core.
 
